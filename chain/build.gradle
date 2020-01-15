@@ -1,5 +1,6 @@
+    dependences {
     dependencies {
-    dependencies {
+        dependencies {
       implementation project(':types')
       implementation project(':core')
       implementation project(':crypto')
