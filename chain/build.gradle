@@ -1,5 +1,5 @@
-    dependences {
     dependencies {
+    dependences    {
         dependencies {
       implementation project(':types')
       implementation project(':core')
